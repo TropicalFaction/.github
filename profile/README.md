@@ -1,4 +1,4 @@
-<img alt="TropicalMC Logo" width="512px" src="./TropicalText.png"/>
+<img alt="TropicalMC Logo" src="./TropicalText.png"/>
 
 ---
 
