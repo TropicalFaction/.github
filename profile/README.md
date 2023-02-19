@@ -1,4 +1,4 @@
-![TropicalMC Logo](./TropicalMc.png)
+<img src="./TropicalMc.png" width="50px" align="center"></img>
 
 ---
 
